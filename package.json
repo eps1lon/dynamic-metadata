@@ -9,8 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "next": "15.0.0-canary.130",
     "react": "19.0.0-rc-eb3ad065-20240822",
-    "react-dom": "19.0.0-rc-eb3ad065-20240822",
-    "next": "15.0.0-canary.130"
+    "react-dom": "19.0.0-rc-eb3ad065-20240822"
+  },
+  "devDependencies": {
+    "@types/node": "22.5.0",
+    "@types/react": "18.3.4",
+    "typescript": "5.5.4"
   }
 }
